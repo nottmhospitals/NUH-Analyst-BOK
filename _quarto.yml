@@ -24,6 +24,8 @@ format:
     theme:
       - cosmo
       - brand
+    link-external-icon: true
+    link-external-newwindow: true
   pdf:
     documentclass: scrreprt
 
