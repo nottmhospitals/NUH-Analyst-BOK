@@ -27,8 +27,3 @@ format:
       - brand
     link-external-icon: true
     link-external-newwindow: true
-  pdf:
-    documentclass: scrreprt
-
-
-
