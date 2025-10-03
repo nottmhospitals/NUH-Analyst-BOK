@@ -1,9 +1,19 @@
-# Preface {.unnumbered}
+# Welcome {.unnumbered}
 
-This is a Quarto book.
+This is the Nottingham University Hospitals Analyst **"Body of Knowledge"**. It is a living document, designed to serve multiple purposes.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+It is:
 
-```{r}
-1 + 1
-```
+-   **A growing summary of our institutional knowledge**, searchable and easy to use as a reference.
+-   **An onboarding guide**, to support data analysts new to our teams or new to healthcare.
+-   **A practical training project**, allowing new users of git to practice by contributing to a project of real value.
+-   **An exercise in transparency**, and a commitment to "being the difference we want to see" in relation to open working, and open-source analytical development.
+-   **A searchlight**, to help guide us towards other NHS organisations and contacts who may find value here, or who may be able to help us one day.
+
+But mostly, it is a place for us to write things, so that "future us" knows where to find them. Doing this in a public github repository ensures we create something not quick and disposable, but something considered, deliberate and of gradually accumulating value.
+
+> **If I have seen further, it is by standing on the shoulders of giants.**
+>
+> \- Sir Isaac Newton
+
+You can find some of our "giants" listed in the [reading list](physical_books.qmd) and [acknowledgements](acknowledgements.qmd) sections, or start exploring the table of contents to the left. 
