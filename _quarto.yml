@@ -3,8 +3,8 @@ project:
 
 book:
   title: "NUH Analyst BOK"
-  author: "Norah Jones"
-  date: "02/10/2025"
+  author: "NUH Data Analysts"
+  date: today
   chapters:
     - index.qmd
     - intro.qmd
