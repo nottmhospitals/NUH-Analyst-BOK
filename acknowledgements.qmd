@@ -1,0 +1,17 @@
+# Acknowledgements
+
+> If I have seen further, it is by standing on the shoulders of giants.
+>
+> - Sir Isaac Newton
+
+[The NHS R Community](https://nhsrcommunity.com/)
+
+[Midlands Analyst Network Huddles](https://www.strategyunitwm.nhs.uk/publications/midlands-analyst-network-and-huddles)
+
+[Health Service Modelling Associates](https://hsma.co.uk/)
+
+[Chris Beeley & the Data Science Team at the Strategy Unit](https://www.strategyunitwm.nhs.uk/author/chris-beeley)
+
+[Sam Riley & NHSE Making Data Count](https://www.england.nhs.uk/publication/making-data-count/)
+
+[Bristol, North Somerset & South Gloucestershire Analytics (github)](https://github.com/nhs-bnssg-analytics)

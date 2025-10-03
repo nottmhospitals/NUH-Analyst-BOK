@@ -1,0 +1,19 @@
+# Physical Books
+
+This is a list of recommended reading.  Intended to capture some of the core
+publications which would interest any data analyst, through to more specialised
+material focusing on healthcare specifically, or improvement more generally.
+
+## Analysis
+
+## Visualisation
+
+## Statistics
+
+## Data Science
+
+[The StatQuest Illustrated Guide to Machine Learning](https://www.amazon.co.uk/dp/B0BLM4TLPY)
+
+## Improvement
+
+

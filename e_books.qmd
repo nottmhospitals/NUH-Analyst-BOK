@@ -1,0 +1,23 @@
+# E-Books
+
+## Analysis
+
+## Visualisation
+
+## Statistics
+
+## Data Science
+
+[HSMA e-books](https://hsma.co.uk/hsma_content/books/books.html)
+
+## Code
+
+[Authoring R Packages](https://r-pkgs.org/)
+
+[Happy Git with R](https://happygitwithr.com/)
+
+[The Big Book of R](https://www.bigbookofr.com/)
+
+## Improvement
+
+
