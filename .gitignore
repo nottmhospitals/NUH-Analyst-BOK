@@ -4,3 +4,9 @@
 .httr-oauth
 .DS_Store
 .quarto
+
+/.quarto/
+**/*.quarto_ipynb
+
+# ignore locally rendered book content
+/_book/ 
