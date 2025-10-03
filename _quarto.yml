@@ -16,6 +16,7 @@ book:
       - e_books.qmd
       - videos.qmd
     - acknowledgements.qmd
+    - glossary.qmd
     - references.qmd
 
 bibliography: references.bib

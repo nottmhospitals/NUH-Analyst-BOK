@@ -1,0 +1,259 @@
+---
+number-sections: false
+---
+
+# Glossary
+
+The NHS (National Health Service) can be an alphabet soup of three-letter-acronyms.  This page covers some of the main acronyms used in this book. There is also a helpful [Jargon Buster maintained by the NHS Confederation](https://www.nhsconfed.org/publications/acronym-buster).
+
+## A
+
+### A&G
+Advice and Guidance  
+A quick-reaction clinical questions process designed to avoid unnecessary referrals from primary care by responding quickly to medical queries about referral options for a patient.
+
+### ABCD
+Activity, Bottleneck, Capacity, Demand.  
+A common mental model used to describe demand and capacity measurement.  
+
+### ALOS
+Average Length of Stay  
+See also [LOS](glossary.qmd#los).  LOS is the preferred term at NUH.  
+
+## B
+
+### BAF
+Board Assurance Framework
+
+### BOK
+Body of Knowledge
+
+## C
+
+### CDC
+Community Diagnostic Centre
+
+### CT
+Computed Tomography   
+An important diagnostic imaging process, and one of the 15 diagnostic modalities measured in the DM01 performance dataset.
+
+## D
+
+### DM01
+A performance dataset related to the main diagnostic test modalities
+
+### DNA  
+Did Not Attend  
+The patient did not arrive for a scheduled appointment.  
+See also [WNB](glossary.qmd#wnb) 
+
+## E
+
+### ECG
+Electrocardiogram  
+One of the 15 diagnostic modalities measured in the DM01 performance dataset
+
+### EL
+Elective  
+
+### EPMA  
+Electronic Prescribing and Medicines Administration
+
+### EPR
+Electronic Patient Records System
+
+## F
+
+### FDS
+Faster Diagnosis Standard  
+A cancer performance measure, measuring the length of time from urgent referral to ruling out or diagnosis of cancer. The performance standard is 28 days.  
+
+### FDS
+First Diagnostic Scan  
+A timing point within diagnostic pathway tracking
+
+### FTE
+Full-time Equivalent  
+See also [WTE](glossary.qmd#wte)
+
+## G
+## H
+
+### HVLC
+High Volume Low Complexity
+
+## I
+
+### ICB
+Integrated Care Board
+
+### ICD10
+[International statistical classification of diseases and related health problems](https://classbrowser.nhs.uk/#/book/ICD-10-5TH-Edition)  
+See also [OPCS4](glossary.qmd#opcs4)
+
+### IP
+Inpatient
+
+## J
+## K
+## L
+
+### LOS
+Length of Stay  
+See also [ALOS](glossary.qmd#alos).  LOS is the preferred term at NUH.  
+
+## M
+
+### MBRRACE
+Maternal and Babies-Reducing Risk through Audits and Confidential Enquiries
+
+### MDC
+Making Data Count  
+A data-literacy initiative led by NHSE to increase the use of Statistical Process Control techniques in hospital measurement and management processes.  
+
+### MFFD
+Medically Fit For Discharge  
+See also [MSFT](glossary.qmd#msft)
+
+### MRI
+Magnetic Resonance Imaging  
+An important diagnostic imaging process, and one of the 15 diagnostic modalities measured in the DM01 performance dataset.
+
+### MSFT
+Medically Safe for Transfer  
+See also [MFFD](glossary.qmd#mffd)
+
+## N
+
+### NEL
+Non-Elective  
+See also [UEC](glossary.qmd#uec)
+
+### NEWS
+National Early Warning Score
+
+### NHP
+New Hospitals Programme
+
+### NHS
+National Health Service
+
+### NICU
+Neonatal Intensive Care Unit  
+See also [NNU](glossary.qmd#nnu)
+
+### NNU
+Neonatal Unit  
+See also [NICU](glossary.qmd#nicu)
+
+## O
+
+### OP
+Outpatient
+
+### OPCS4
+[OPCS Classification of Interventions and Procedures](https://classbrowser.nhs.uk/#/book/OPCS-4.10)  
+See also [ICD10](glossary.qmd#icd10)
+
+### OPPROC
+Outpatient procedure
+
+## P
+
+### PACS
+Picture Archiving and Communication System
+
+### PAS
+Patient Administration System
+
+### PCN
+Primary Care Network
+
+### PEWS
+Pediatric Early Warning Score
+
+### PIFU
+Patient-Initiated Follow Up
+
+### Plain Film
+Standard X-ray image taken without contrast agents (e.g. dyes or barium)
+
+### POC
+Point Of Care
+
+### PTL
+Patient Tracking List
+
+## Q
+## R
+
+### R
+A statistical programming language used by data analysts and data scientists
+
+### RIS
+Radiology Information System
+
+### RTL
+Referral Tracking List
+
+### RTT
+Referral to Treatment
+
+## S
+
+### SDEC
+Same-Day Emergency Care
+
+### SITREP
+Situation Report
+
+### SOP
+Standard Operating Procedure
+
+### SPC
+Statistical Process Control
+
+### SUS
+Secondary Uses Service
+
+## T
+
+### TOC
+Tranasfer of Care
+
+### TTO
+To Take Out  
+A drugs prescription that the patient takes away on the day they are discharged from inpatient care.
+
+## U
+
+### UEC
+Urgent and Emergency Care
+
+### US
+Ultrasound  
+A diagnostic imaging process.  Non-obstetric ultrasound is one of the 15 diagnostic modalities measured in the DM01 performance dataset.
+
+## V
+## W
+
+### WLI
+Waiting List Initiative  
+Premium-paid working time agreed in order to reduce the size of a waiting list.
+
+### WNB
+Was not Brought  
+The patient did not attend a scheduled appointment, but is dependent on others to bring them to the appointments (e.g. pediatric or elderly patients).  
+See also [DNA](glossary.qmd#dna)
+
+### WTE
+Whole-time Equivalent  
+See also [FTE](glossary.qmd#fte)
+
+## X
+
+### XmR
+A type of Statistical Process Control (SPC) chart
+
+## Y
+## Z
