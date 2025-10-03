@@ -1,0 +1,15 @@
+{
+  "hash": "7bd7c4812738b2fbbf9226df73b677b9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Welcome {.unnumbered}\n\nThis is the Nottingham University Hospitals Analyst **\"Body of Knowledge\"**. It is a living document, designed to serve multiple purposes.\n\nIt is:\n\n-   **A growing summary of our institutional knowledge**, searchable and easy to use as a reference.\n-   **An onboarding guide**, to support data analysts new to our teams or new to healthcare.\n-   **A practical training project**, allowing new users of git to practice by contributing to a project of real value.\n-   **An exercise in transparency**, and a commitment to \"being the difference we want to see\" in relation to open working, and open-source analytical development.\n-   **A searchlight**, to help guide us towards other NHS organisations and contacts who may find value here, or who may be able to help us one day.\n\nBut mostly, it is a place for us to write things, so that \"future us\" knows where to find them. Doing this in a public github repository ensures we create something not quick and disposable, but something considered, deliberate and of gradually accumulating value.\n\n> **If I have seen further, it is by standing on the shoulders of giants.**\n>\n> \\- Sir Isaac Newton\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\nYou can find some of our \"giants\" listed in the [reading list](physical_books.qmd) and [acknowledgements](acknowledgements.qmd) sections, or start exploring the table of contents to the left. ",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
