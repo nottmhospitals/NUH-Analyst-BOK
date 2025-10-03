@@ -150,5 +150,275 @@
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acknowledgements</span>"
     ]
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "A\nThe NHS (National Health Service) can be an alphabet soup of three-letter-acronyms. This page covers some of the main acronyms used in this book. There is also a helpful Jargon Buster maintained by the NHS Confederation.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#a",
+    "href": "glossary.html#a",
+    "title": "Glossary",
+    "section": "",
+    "text": "A&G\nAdvice and Guidance\nA quick-reaction clinical questions process designed to avoid unnecessary referrals from primary care by responding quickly to medical queries about referral options for a patient.\n\n\nABCD\nActivity, Bottleneck, Capacity, Demand.\nA common mental model used to describe demand and capacity measurement.\n\n\nALOS\nAverage Length of Stay\nSee also LOS. LOS is the preferred term at NUH.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#b",
+    "href": "glossary.html#b",
+    "title": "Glossary",
+    "section": "B",
+    "text": "B\n\nBAF\nBoard Assurance Framework\n\n\nBOK\nBody of Knowledge",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#c",
+    "href": "glossary.html#c",
+    "title": "Glossary",
+    "section": "C",
+    "text": "C\n\nCDC\nCommunity Diagnostic Centre\n\n\nCT\nComputed Tomography\nAn important diagnostic imaging process, and one of the 15 diagnostic modalities measured in the DM01 performance dataset.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#d",
+    "href": "glossary.html#d",
+    "title": "Glossary",
+    "section": "D",
+    "text": "D\n\nDM01\nA performance dataset related to the main diagnostic test modalities\n\n\nDNA\nDid Not Attend\nThe patient did not arrive for a scheduled appointment.\nSee also WNB",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#e",
+    "href": "glossary.html#e",
+    "title": "Glossary",
+    "section": "E",
+    "text": "E\n\nECG\nElectrocardiogram\nOne of the 15 diagnostic modalities measured in the DM01 performance dataset\n\n\nEL\nElective\n\n\nEPMA\nElectronic Prescribing and Medicines Administration\n\n\nEPR\nElectronic Patient Records System",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#f",
+    "href": "glossary.html#f",
+    "title": "Glossary",
+    "section": "F",
+    "text": "F\n\nFDS\nFaster Diagnosis Standard\nA cancer performance measure, measuring the length of time from urgent referral to ruling out or diagnosis of cancer. The performance standard is 28 days.\n\n\nFDS\nFirst Diagnostic Scan\nA timing point within diagnostic pathway tracking\n\n\nFTE\nFull-time Equivalent\nSee also WTE",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#g",
+    "href": "glossary.html#g",
+    "title": "Glossary",
+    "section": "G",
+    "text": "G",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#h",
+    "href": "glossary.html#h",
+    "title": "Glossary",
+    "section": "H",
+    "text": "H\n\nHVLC\nHigh Volume Low Complexity",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#i",
+    "href": "glossary.html#i",
+    "title": "Glossary",
+    "section": "I",
+    "text": "I\n\nICB\nIntegrated Care Board\n\n\nICD10\nInternational statistical classification of diseases and related health problems\nSee also OPCS4\n\n\nIP\nInpatient",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#j",
+    "href": "glossary.html#j",
+    "title": "Glossary",
+    "section": "J",
+    "text": "J",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#k",
+    "href": "glossary.html#k",
+    "title": "Glossary",
+    "section": "K",
+    "text": "K",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#l",
+    "href": "glossary.html#l",
+    "title": "Glossary",
+    "section": "L",
+    "text": "L\n\nLOS\nLength of Stay\nSee also ALOS. LOS is the preferred term at NUH.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#m",
+    "href": "glossary.html#m",
+    "title": "Glossary",
+    "section": "M",
+    "text": "M\n\nMBRRACE\nMaternal and Babies-Reducing Risk through Audits and Confidential Enquiries\n\n\nMDC\nMaking Data Count\nA data-literacy initiative led by NHSE to increase the use of Statistical Process Control techniques in hospital measurement and management processes.\n\n\nMFFD\nMedically Fit For Discharge\nSee also MSFT\n\n\nMRI\nMagnetic Resonance Imaging\nAn important diagnostic imaging process, and one of the 15 diagnostic modalities measured in the DM01 performance dataset.\n\n\nMSFT\nMedically Safe for Transfer\nSee also MFFD",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#n",
+    "href": "glossary.html#n",
+    "title": "Glossary",
+    "section": "N",
+    "text": "N\n\nNEL\nNon-Elective\nSee also UEC\n\n\nNEWS\nNational Early Warning Score\n\n\nNHP\nNew Hospitals Programme\n\n\nNHS\nNational Health Service\n\n\nNICU\nNeonatal Intensive Care Unit\nSee also NNU\n\n\nNNU\nNeonatal Unit\nSee also NICU",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#o",
+    "href": "glossary.html#o",
+    "title": "Glossary",
+    "section": "O",
+    "text": "O\n\nOP\nOutpatient\n\n\nOPCS4\nOPCS Classification of Interventions and Procedures\nSee also ICD10\n\n\nOPPROC\nOutpatient procedure",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#p",
+    "href": "glossary.html#p",
+    "title": "Glossary",
+    "section": "P",
+    "text": "P\n\nPACS\nPicture Archiving and Communication System\n\n\nPAS\nPatient Administration System\n\n\nPCN\nPrimary Care Network\n\n\nPEWS\nPediatric Early Warning Score\n\n\nPIFU\nPatient-Initiated Follow Up\n\n\nPlain Film\nStandard X-ray image taken without contrast agents (e.g. dyes or barium)\n\n\nPOC\nPoint Of Care\n\n\nPTL\nPatient Tracking List",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#q",
+    "href": "glossary.html#q",
+    "title": "Glossary",
+    "section": "Q",
+    "text": "Q",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#r",
+    "href": "glossary.html#r",
+    "title": "Glossary",
+    "section": "R",
+    "text": "R\n\nR\nA statistical programming language used by data analysts and data scientists\n\n\nRIS\nRadiology Information System\n\n\nRTL\nReferral Tracking List\n\n\nRTT\nReferral to Treatment",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#s",
+    "href": "glossary.html#s",
+    "title": "Glossary",
+    "section": "S",
+    "text": "S\n\nSDEC\nSame-Day Emergency Care\n\n\nSITREP\nSituation Report\n\n\nSOP\nStandard Operating Procedure\n\n\nSPC\nStatistical Process Control\n\n\nSUS\nSecondary Uses Service",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#t",
+    "href": "glossary.html#t",
+    "title": "Glossary",
+    "section": "T",
+    "text": "T\n\nTOC\nTranasfer of Care\n\n\nTTO\nTo Take Out\nA drugs prescription that the patient takes away on the day they are discharged from inpatient care.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#u",
+    "href": "glossary.html#u",
+    "title": "Glossary",
+    "section": "U",
+    "text": "U\n\nUEC\nUrgent and Emergency Care\n\n\nUS\nUltrasound\nA diagnostic imaging process. Non-obstetric ultrasound is one of the 15 diagnostic modalities measured in the DM01 performance dataset.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#v",
+    "href": "glossary.html#v",
+    "title": "Glossary",
+    "section": "V",
+    "text": "V",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#w",
+    "href": "glossary.html#w",
+    "title": "Glossary",
+    "section": "W",
+    "text": "W\n\nWLI\nWaiting List Initiative\nPremium-paid working time agreed in order to reduce the size of a waiting list.\n\n\nWNB\nWas not Brought\nThe patient did not attend a scheduled appointment, but is dependent on others to bring them to the appointments (e.g. pediatric or elderly patients).\nSee also DNA\n\n\nWTE\nWhole-time Equivalent\nSee also FTE",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#x",
+    "href": "glossary.html#x",
+    "title": "Glossary",
+    "section": "X",
+    "text": "X\n\nXmR\nA type of Statistical Process Control (SPC) chart",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#y",
+    "href": "glossary.html#y",
+    "title": "Glossary",
+    "section": "Y",
+    "text": "Y",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html#z",
+    "href": "glossary.html#z",
+    "title": "Glossary",
+    "section": "Z",
+    "text": "Z",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+    ]
   }
 ]
