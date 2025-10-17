@@ -14,7 +14,18 @@
     "href": "physical_books.html",
     "title": "1  Physical Books",
     "section": "",
-    "text": "1.1 Analysis\nThis is a list of recommended reading. Intended to capture some of the core publications which would interest any data analyst, through to more specialised material focusing on healthcare specifically, or improvement more generally.",
+    "text": "1.1 Healthcare\nThis is a list of recommended reading. Intended to capture some of the core publications which would interest any data analyst, through to more specialised material focusing on healthcare specifically, or improvement more generally.\nThe Healthcare Data Guide\nby Provost & Murray\nDesigned to help students and professionals build a skill set specific to using data for improvement of healthcare processes and systems.\nAn Introduction to Digital Healthcare in the NHS\nby Gary McAllister\nThis short book is for professionals working within Healthcare IT, particularly in the NHS. As an introduction, this book is well suited to those who are considering changing careers and working in the Healthcare IT sector. The book aims to provide the reader with a summary of Healthcare IT in the NHS, covering patient flows, healthcare IT systems and modules, healthcare governance, some politics and finally a view of the future.\nPrinciples of Health Interoperability\nby Tim Benson & Grahame Grieve\nHealthcare is communication. Interoperability can provide information when and where required, facilitate quicker and more soundly based decision-making, reduce waste by cutting out repeated work and improve safety with fewer errors. Interoperability is essential in healthcare, which depends on teamwork and communication.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#analysis",
+    "href": "physical_books.html#analysis",
+    "title": "1  Physical Books",
+    "section": "1.2 Analysis",
+    "text": "1.2 Analysis\nSQL for Data Scientists\nby Renee M.P.Teate\nA resource that’s dedicated to the Structured Query Language (SQL) and dataset design skills that data scientists use most. Aspiring data scientists will learn how to how to construct datasets for exploration, analysis, and machine learning.",
     "crumbs": [
       "Resources",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
@@ -24,8 +35,8 @@
     "objectID": "physical_books.html#visualisation",
     "href": "physical_books.html#visualisation",
     "title": "1  Physical Books",
-    "section": "1.2 Visualisation",
-    "text": "1.2 Visualisation",
+    "section": "1.3 Visualisation",
+    "text": "1.3 Visualisation\nThe Visual Display of Quantitative Information\nby Edward R.Tufte\n“Modern data graphics can do much more than simply substitute for small statistical tables. At their best, graphics are instruments for reasoning about quantitative information. Often the most effective way to describe, explore, and summarise a set of numbers - even a very large set - is to look at pictures of those numbers. Furthermore, of all methods for analysing and communicating statistical information, well-designed data graphics are usually the simplest and at the same time the most powerful.”",
     "crumbs": [
       "Resources",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
@@ -35,8 +46,8 @@
     "objectID": "physical_books.html#statistics",
     "href": "physical_books.html#statistics",
     "title": "1  Physical Books",
-    "section": "1.3 Statistics",
-    "text": "1.3 Statistics",
+    "section": "1.4 Statistics",
+    "text": "1.4 Statistics",
     "crumbs": [
       "Resources",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
@@ -46,8 +57,19 @@
     "objectID": "physical_books.html#data-science",
     "href": "physical_books.html#data-science",
     "title": "1  Physical Books",
-    "section": "1.4 Data Science",
-    "text": "1.4 Data Science\nThe StatQuest Illustrated Guide to Machine Learning",
+    "section": "1.5 Data Science",
+    "text": "1.5 Data Science\nThe StatQuest Illustrated Guide to Machine Learning\nby Josh Starmer\nMachine Learning is awesome and powerful, but it can also appear incredibly complicated. That’s where The StatQuest Illustrated Guide to Machine Learning comes in. This book takes the machine learning algorithms, no matter how complicated, and breaks them down into small, bite-sized pieces that are easy to understand. Each concept is clearly illustrated to provide you, the reader, with an intuition about how the methods work that goes beyond the equations alone.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#data-engineering",
+    "href": "physical_books.html#data-engineering",
+    "title": "1  Physical Books",
+    "section": "1.6 Data Engineering",
+    "text": "1.6 Data Engineering\nDAMA - DMBOK\nData Management Body of Knowledge\nToday’s organisations recognise that managing data is central to their success. They recognise the value of their data and seek to leverage that value. As human capacity to create and exploit data has increased, so too has the need for reliable data management practices.\nDatabase Design for Mere Mortals\nby Michael J.Hernandez\nWhatever relational database systems you use, Hernandez will help you design databases that are robust and trustworthy. Never designed a database before? Settling for inadequate generic designs? Running existing databases that need improvement? Start here.",
     "crumbs": [
       "Resources",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
@@ -57,8 +79,19 @@
     "objectID": "physical_books.html#improvement",
     "href": "physical_books.html#improvement",
     "title": "1  Physical Books",
-    "section": "1.5 Improvement",
-    "text": "1.5 Improvement",
+    "section": "1.7 Improvement",
+    "text": "1.7 Improvement\nBusiness Dynamics - Systems Thinking and Modelling for a Complex World\nby John D. Sterman\nSystems Dynamics is an approach to the study of complexity. Originally developed at the Massachusetts Institute of Technology by Jay Forrester, system dynamics is a unique method devised to help managers and public policymakers design and implement high leverage policies for sustainable success.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#manufacturing-improvement",
+    "href": "physical_books.html#manufacturing-improvement",
+    "title": "1  Physical Books",
+    "section": "1.8 Manufacturing Improvement",
+    "text": "1.8 Manufacturing Improvement\nOut of the Crisis\nby W. Edwards Deming\nOriginally published in 1982, Deming offers a theory of management based on his famous 14 Points for Management. “Long-term commitment to new learning and new philosophy is required of any management that seeks transformation. The timid and the fainthearted, and the people that expect quick results, are doomed to disappointment.”\nToyota Production System - Beyond Large-Scale Production\nby Taiichi Ohno\n“The Toyota Production System evolved out of need. Certain restrictions in the marketplace required the production of small quantities of many varieties under conditions of low demand, a fate the Japanese automobile industry had faced in the postwar period.”\n“The most important objective of the Toyota Production System has been to increase production efficiency by consistently and thoroughly eliminating waste.”\nA Study of the Toyota Production System from and Industrial Engineering Viewpoint\nby Shigeo Shingo\n“The Toyota Production System has been compared to squeezing water from a dry towel. What this means is that it is a system for thorough waste elimination. Here, waste refers to everything not serving to advance the process, everything that does not increase added value. Many people settle for eliminating the waste that everyone recognises as waste. But much remains that simply has not yet been recognised as waste or that people are willing to tolerate.”",
     "crumbs": [
       "Resources",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
