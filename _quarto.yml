@@ -10,10 +10,14 @@ book:
   date: today
   chapters:
     - index.qmd
+    - part: "Anatomy of a hospital"
+      chapters: 
+      - hospital_101.qmd
     - part: "Resources"
       chapters: 
-      - physical_books.qmd
+      - conference_talks.qmd
       - e_books.qmd
+      - physical_books.qmd
       - videos.qmd
     - acknowledgements.qmd
     - glossary.qmd

@@ -1,0 +1,44 @@
+# Hospital 101
+
+This page is the first place to come to begin understanding a modern acute hospital.  It's currently a placeholder, but will soon give an overview of the major components of a hospital.
+
+## Inpatients
+
+## Daycases
+
+## Outpatient clinics
+
+## Outpatient procedures
+
+## Emergency Department
+
+## Same Day Emergency Care
+
+## Theatres
+
+## Diagnostics
+
+### Overview of the main diagnostic modalities
+
+## Intensive Care (Adults, Cardiac, Paediatric, Neonatal)
+
+## Maternity
+
+## Laboratories (pathology & blood testing, hematology etc)
+
+## Pharmacy
+
+## Sterile Services
+
+## Medical Equipment / Biomedical Engineering
+
+## Portering
+
+## Facilities and Maintenance
+
+## Catering
+
+## Information Systems and Electronic Records
+
+
+
