@@ -1,0 +1,10 @@
+# Conference Talks
+
+The NHS analyst community has a strong culture of open sharing of conference materials, and 
+many conference talks are published online thanks to organisations like the 
+NHS-R Community.  There is so much material that it can be difficult to search 
+for and find the talk you are looking for, or to discover material new to you 
+from previous conferences.  
+
+This page aims to help solve that problem, and Quarto means that this content 
+is easily searchable from the search bar at the top of the page.  

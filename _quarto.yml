@@ -12,8 +12,9 @@ book:
     - index.qmd
     - part: "Resources"
       chapters: 
-      - physical_books.qmd
+      - conference_talks.qmd
       - e_books.qmd
+      - physical_books.qmd
       - videos.qmd
     - acknowledgements.qmd
     - glossary.qmd
