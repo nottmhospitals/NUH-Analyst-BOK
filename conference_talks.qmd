@@ -8,3 +8,90 @@ from previous conferences.
 
 This page aims to help solve that problem, and Quarto means that this content 
 is easily searchable from the search bar at the top of the page.  
+
+```{r}
+#| echo: false
+
+# read and clean the incoming csv data
+talk_index <- readr::read_csv("data_public/Conference Talk Index(Conference Talk Index).csv", skip = 11, col_types = "c") |> 
+  janitor::clean_names() |> 
+  dplyr::mutate(
+    date = as.Date(date, format = "%d/%m/%Y"),
+    conference = paste(year, conference_name),
+    tags = ifelse(is.na(tags), "-", tags),
+    url = video_url_with_timestamp,
+    video_url_with_timestamp = NULL
+  ) |> 
+  dplyr::select(-c(parent_video_url, time_h, time_m, time_s, timestamp)) |> 
+  dplyr::arrange(desc(date)) |> 
+  dplyr::mutate(
+    # make a factor so that the later group_by respects this sort order
+    conference = forcats::fct_inorder(conference)
+  )
+
+# group the dataframe by conference so that we can create conference headings
+grouped_by_conference <- talk_index |> 
+  dplyr::group_by(conference) |> 
+  dplyr::group_split()
+
+# map through the data to produce both headings, and video listings
+# the result is not placed onto the page until a later chunk
+out <- purrr::map_chr(grouped_by_conference, function(g) {
+  
+  # create the heading for each conference
+  conference_name <- unique(g$conference)
+
+  # build the sections for the video listings within this conference
+  video_listings <- g |> 
+    dplyr::select(conference, talk_name, date, presenters, organisations, tags, url) |> 
+    purrr::pmap_chr(
+    function(conference, talk_name, date, presenters, organisations, tags, url) {
+      glue::glue("
+  
+      #### {talk_name}
+      
+      Date: {date}
+      
+      Speaker(s): {presenters}
+      
+      Organisation(s): {organisations}
+      
+      Tags: {tags}
+      
+      [Watch the video]({url})
+      
+      ---
+      
+      ")}
+    ) |> 
+    paste0(collapse = "\n")
+
+  # Return the whole block for a single conference
+  glue::glue("
+    ### {conference_name}
+    
+    {video_listings}
+    ")}
+  )
+```
+
+The conferences covered so far are 
+```{r, results='asis'}
+#| echo: false
+
+talk_index |> 
+dplyr::pull(conference) |> 
+unique() |> 
+paste0(collapse = ", ") |>
+paste0(".") |> 
+cat()
+```
+Suggestions for other conference videos not yet included are welcome.  Please raise a [github issue](https://github.com/nottmhospitals/NUH-Analyst-BOK/issues), pull request, or write us an email to make a suggestion.  
+
+```{r results='asis'}
+#| echo: false
+
+# this chunk places the indexed content onto the page
+cat(out, sep = "\n")
+
+```
