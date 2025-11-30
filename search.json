@@ -10,178 +10,387 @@
     ]
   },
   {
-    "objectID": "physical_books.html",
-    "href": "physical_books.html",
-    "title": "1  Physical Books",
+    "objectID": "hospital_101.html",
+    "href": "hospital_101.html",
+    "title": "1  Hospital 101",
     "section": "",
-    "text": "1.1 Healthcare\nThis is a list of recommended reading. Intended to capture some of the core publications which would interest any data analyst, through to more specialised material focusing on healthcare specifically, or improvement more generally.\nThe Healthcare Data Guide\nby Provost & Murray\nDesigned to help students and professionals build a skill set specific to using data for improvement of healthcare processes and systems.\nAn Introduction to Digital Healthcare in the NHS\nby Gary McAllister\nThis short book is for professionals working within Healthcare IT, particularly in the NHS. As an introduction, this book is well suited to those who are considering changing careers and working in the Healthcare IT sector. The book aims to provide the reader with a summary of Healthcare IT in the NHS, covering patient flows, healthcare IT systems and modules, healthcare governance, some politics and finally a view of the future.\nPrinciples of Health Interoperability\nby Tim Benson & Grahame Grieve\nHealthcare is communication. Interoperability can provide information when and where required, facilitate quicker and more soundly based decision-making, reduce waste by cutting out repeated work and improve safety with fewer errors. Interoperability is essential in healthcare, which depends on teamwork and communication.",
+    "text": "1.1 Inpatients\nThis page is the first place to come to begin understanding a modern acute hospital. It’s currently a placeholder, but will soon give an overview of the major components of a hospital.",
     "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
     ]
   },
   {
-    "objectID": "physical_books.html#analysis",
-    "href": "physical_books.html#analysis",
-    "title": "1  Physical Books",
-    "section": "1.2 Analysis",
-    "text": "1.2 Analysis\nSQL for Data Scientists\nby Renee M.P.Teate\nA resource that’s dedicated to the Structured Query Language (SQL) and dataset design skills that data scientists use most. Aspiring data scientists will learn how to how to construct datasets for exploration, analysis, and machine learning.",
+    "objectID": "hospital_101.html#daycases",
+    "href": "hospital_101.html#daycases",
+    "title": "1  Hospital 101",
+    "section": "1.2 Daycases",
+    "text": "1.2 Daycases",
     "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
     ]
   },
   {
-    "objectID": "physical_books.html#visualisation",
-    "href": "physical_books.html#visualisation",
-    "title": "1  Physical Books",
-    "section": "1.3 Visualisation",
-    "text": "1.3 Visualisation\nThe Visual Display of Quantitative Information\nby Edward R.Tufte\n“Modern data graphics can do much more than simply substitute for small statistical tables. At their best, graphics are instruments for reasoning about quantitative information. Often the most effective way to describe, explore, and summarise a set of numbers - even a very large set - is to look at pictures of those numbers. Furthermore, of all methods for analysing and communicating statistical information, well-designed data graphics are usually the simplest and at the same time the most powerful.”",
+    "objectID": "hospital_101.html#outpatient-clinics",
+    "href": "hospital_101.html#outpatient-clinics",
+    "title": "1  Hospital 101",
+    "section": "1.3 Outpatient clinics",
+    "text": "1.3 Outpatient clinics",
     "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
     ]
   },
   {
-    "objectID": "physical_books.html#statistics",
-    "href": "physical_books.html#statistics",
-    "title": "1  Physical Books",
-    "section": "1.4 Statistics",
-    "text": "1.4 Statistics",
+    "objectID": "hospital_101.html#outpatient-procedures",
+    "href": "hospital_101.html#outpatient-procedures",
+    "title": "1  Hospital 101",
+    "section": "1.4 Outpatient procedures",
+    "text": "1.4 Outpatient procedures",
     "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
     ]
   },
   {
-    "objectID": "physical_books.html#data-science",
-    "href": "physical_books.html#data-science",
-    "title": "1  Physical Books",
-    "section": "1.5 Data Science",
-    "text": "1.5 Data Science\nThe StatQuest Illustrated Guide to Machine Learning\nby Josh Starmer\nMachine Learning is awesome and powerful, but it can also appear incredibly complicated. That’s where The StatQuest Illustrated Guide to Machine Learning comes in. This book takes the machine learning algorithms, no matter how complicated, and breaks them down into small, bite-sized pieces that are easy to understand. Each concept is clearly illustrated to provide you, the reader, with an intuition about how the methods work that goes beyond the equations alone.",
+    "objectID": "hospital_101.html#emergency-department",
+    "href": "hospital_101.html#emergency-department",
+    "title": "1  Hospital 101",
+    "section": "1.5 Emergency Department",
+    "text": "1.5 Emergency Department",
     "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
     ]
   },
   {
-    "objectID": "physical_books.html#data-engineering",
-    "href": "physical_books.html#data-engineering",
-    "title": "1  Physical Books",
-    "section": "1.6 Data Engineering",
-    "text": "1.6 Data Engineering\nDAMA - DMBOK\nData Management Body of Knowledge\nToday’s organisations recognise that managing data is central to their success. They recognise the value of their data and seek to leverage that value. As human capacity to create and exploit data has increased, so too has the need for reliable data management practices.\nDatabase Design for Mere Mortals\nby Michael J.Hernandez\nWhatever relational database systems you use, Hernandez will help you design databases that are robust and trustworthy. Never designed a database before? Settling for inadequate generic designs? Running existing databases that need improvement? Start here.",
+    "objectID": "hospital_101.html#same-day-emergency-care",
+    "href": "hospital_101.html#same-day-emergency-care",
+    "title": "1  Hospital 101",
+    "section": "1.6 Same Day Emergency Care",
+    "text": "1.6 Same Day Emergency Care",
     "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
     ]
   },
   {
-    "objectID": "physical_books.html#improvement",
-    "href": "physical_books.html#improvement",
-    "title": "1  Physical Books",
-    "section": "1.7 Improvement",
-    "text": "1.7 Improvement\nBusiness Dynamics - Systems Thinking and Modelling for a Complex World\nby John D. Sterman\nSystems Dynamics is an approach to the study of complexity. Originally developed at the Massachusetts Institute of Technology by Jay Forrester, system dynamics is a unique method devised to help managers and public policymakers design and implement high leverage policies for sustainable success.",
+    "objectID": "hospital_101.html#theatres",
+    "href": "hospital_101.html#theatres",
+    "title": "1  Hospital 101",
+    "section": "1.7 Theatres",
+    "text": "1.7 Theatres",
     "crumbs": [
-      "Resources",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
     ]
   },
   {
-    "objectID": "physical_books.html#manufacturing-improvement",
-    "href": "physical_books.html#manufacturing-improvement",
-    "title": "1  Physical Books",
-    "section": "1.8 Manufacturing Improvement",
-    "text": "1.8 Manufacturing Improvement\nOut of the Crisis\nby W. Edwards Deming\nOriginally published in 1982, Deming offers a theory of management based on his famous 14 Points for Management. “Long-term commitment to new learning and new philosophy is required of any management that seeks transformation. The timid and the fainthearted, and the people that expect quick results, are doomed to disappointment.”\nToyota Production System - Beyond Large-Scale Production\nby Taiichi Ohno\n“The Toyota Production System evolved out of need. Certain restrictions in the marketplace required the production of small quantities of many varieties under conditions of low demand, a fate the Japanese automobile industry had faced in the postwar period.”\n“The most important objective of the Toyota Production System has been to increase production efficiency by consistently and thoroughly eliminating waste.”\nA Study of the Toyota Production System from and Industrial Engineering Viewpoint\nby Shigeo Shingo\n“The Toyota Production System has been compared to squeezing water from a dry towel. What this means is that it is a system for thorough waste elimination. Here, waste refers to everything not serving to advance the process, everything that does not increase added value. Many people settle for eliminating the waste that everyone recognises as waste. But much remains that simply has not yet been recognised as waste or that people are willing to tolerate.”",
+    "objectID": "hospital_101.html#diagnostics",
+    "href": "hospital_101.html#diagnostics",
+    "title": "1  Hospital 101",
+    "section": "1.8 Diagnostics",
+    "text": "1.8 Diagnostics\n\n1.8.1 Overview of the main diagnostic modalities",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#intensive-care-adults-cardiac-paediatric-neonatal",
+    "href": "hospital_101.html#intensive-care-adults-cardiac-paediatric-neonatal",
+    "title": "1  Hospital 101",
+    "section": "1.9 Intensive Care (Adults, Cardiac, Paediatric, Neonatal)",
+    "text": "1.9 Intensive Care (Adults, Cardiac, Paediatric, Neonatal)",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#maternity",
+    "href": "hospital_101.html#maternity",
+    "title": "1  Hospital 101",
+    "section": "1.10 Maternity",
+    "text": "1.10 Maternity",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#laboratories-pathology-blood-testing-hematology-etc",
+    "href": "hospital_101.html#laboratories-pathology-blood-testing-hematology-etc",
+    "title": "1  Hospital 101",
+    "section": "1.11 Laboratories (pathology & blood testing, hematology etc)",
+    "text": "1.11 Laboratories (pathology & blood testing, hematology etc)",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#pharmacy",
+    "href": "hospital_101.html#pharmacy",
+    "title": "1  Hospital 101",
+    "section": "1.12 Pharmacy",
+    "text": "1.12 Pharmacy",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#sterile-services",
+    "href": "hospital_101.html#sterile-services",
+    "title": "1  Hospital 101",
+    "section": "1.13 Sterile Services",
+    "text": "1.13 Sterile Services",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#medical-equipment-biomedical-engineering",
+    "href": "hospital_101.html#medical-equipment-biomedical-engineering",
+    "title": "1  Hospital 101",
+    "section": "1.14 Medical Equipment / Biomedical Engineering",
+    "text": "1.14 Medical Equipment / Biomedical Engineering",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#portering",
+    "href": "hospital_101.html#portering",
+    "title": "1  Hospital 101",
+    "section": "1.15 Portering",
+    "text": "1.15 Portering",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#facilities-and-maintenance",
+    "href": "hospital_101.html#facilities-and-maintenance",
+    "title": "1  Hospital 101",
+    "section": "1.16 Facilities and Maintenance",
+    "text": "1.16 Facilities and Maintenance",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#catering",
+    "href": "hospital_101.html#catering",
+    "title": "1  Hospital 101",
+    "section": "1.17 Catering",
+    "text": "1.17 Catering",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "hospital_101.html#information-systems-and-electronic-records",
+    "href": "hospital_101.html#information-systems-and-electronic-records",
+    "title": "1  Hospital 101",
+    "section": "1.18 Information Systems and Electronic Records",
+    "text": "1.18 Information Systems and Electronic Records",
+    "crumbs": [
+      "Anatomy of a hospital",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Hospital 101</span>"
+    ]
+  },
+  {
+    "objectID": "conference_talks.html",
+    "href": "conference_talks.html",
+    "title": "2  Conference Talks",
+    "section": "",
+    "text": "The NHS analyst community has a strong culture of open sharing of conference materials, and many conference talks are published online thanks to organisations like the NHS-R Community. There is so much material that it can be difficult to search for and find the talk you are looking for, or to discover material new to you from previous conferences.\nThis page aims to help solve that problem, and Quarto means that this content is easily searchable from the search bar at the top of the page.\nThe conferences covered so far are 2024 RPYSOC, 2024 HACA, 2023 HACA. Suggestions for other conference videos not yet included are welcome. Please raise a github issue, pull request, or write us an email to make a suggestion.\n\n2.0.1 2024 RPYSOC\n\n2.0.1.1 The Reusability Crisis in Healthcare Analytics - From Reproducible to Re-useable\nDate: 2024-11-22\nSpeaker(s): Rhian Davies\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU)\nTags: -\nWatch the video\n\n\n\n2.0.1.2 Shift staffing via task load prediction\nDate: 2024-11-22\nSpeaker(s): Marcos Fabietti\nOrganisation(s): Nottingham University Hospitals NHS Trust\nTags: -\nWatch the video\n\n\n\n2.0.1.3 Unleashing the power of pathway simulation\nDate: 2024-11-22\nSpeaker(s): Sammi Rosser\nOrganisation(s): Health Service Modelling Associates (HSMA)\nTags: -\nWatch the video\n\n\n\n2.0.1.4 New genetic tests for cancer – why R is a clinical scientist’s best friend\nDate: 2024-11-22\nSpeaker(s): Joe Shaw\nOrganisation(s): Manchester University NHS Foundation Trust\nTags: -\nWatch the video\n\n\n\n2.0.1.5 Beyond automation: a shiny app to maximise analytical impact in routine reporting\nDate: 2024-11-22\nSpeaker(s): Laura Birks\nOrganisation(s): NHSE South East\nTags: -\nWatch the video\n\n\n\n2.0.1.6 Sharpening my Python skills through self-development of web scraping bank complaints data\nDate: 2024-11-22\nSpeaker(s): Kenneth Quan\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.1.7 GitHub as a team sport\nDate: 2024-11-22\nSpeaker(s): Matt Dray\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU)\nTags: -\nWatch the video\n\n\n\n2.0.1.8 Presenting fingertips in data in a more friendly format\nDate: 2024-11-22\nSpeaker(s): Rachel Brown\nOrganisation(s): NHS North England CSU\nTags: -\nWatch the video\n\n\n\n2.0.1.9 A method to apply temporal graph analysis on electronic patient record data to explore healthcare professional patient interaction intensity\nDate: 2024-11-22\nSpeaker(s): John Booth\nOrganisation(s): Great Ormond Street Hospital for Children\nTags: -\nWatch the video\n\n\n\n2.0.1.10 Deploying a Shiny app with Docker in a Raspberry Pi\nDate: 2024-11-22\nSpeaker(s): Pablo León Ródenas\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.1.11 Estimating flexible hazard rates for C diff recurrence from electronic health records using the SplinHazard Regression package and other methods in R\nDate: 2024-11-22\nSpeaker(s): Elisabeth Dietz\nOrganisation(s): University of Oxford, Oxford University Hospitals NHS Foundation Trust\nTags: -\nWatch the video\n\n\n\n2.0.1.12 Assessment of patient feedback using Natural Language Processing (NLP) and textual data analysis in R\nDate: 2024-11-22\nSpeaker(s): Ana Singh\nOrganisation(s): East Suffolk and North Essex NHS Foundation Trust\nTags: -\nWatch the video\n\n\n\n2.0.1.13 Forged in the fire: agile project management lessons from the frontline\nDate: 2024-11-22\nSpeaker(s): Chris Beeley\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU)\nTags: -\nWatch the video\n\n\n\n2.0.1.14 Community Talk: The Turing Way\nDate: 2024-11-22\nSpeaker(s): Sophia Batchelor\nOrganisation(s): The Turing Way Community\nTags: -\nWatch the video\n\n\n\n2.0.1.15 Community Talk -NHS.Pycom\nDate: 2024-11-22\nSpeaker(s): Alex Cheung\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.1.16 NHS-R Community\nDate: 2024-11-22\nSpeaker(s): Zoë Turner\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU)\nTags: -\nWatch the video\n\n\n\n2.0.1.17 RAPping my head against a databricks wall\nDate: 2024-11-21\nSpeaker(s): Louise Schreuders\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.1.18 Simplifying development of AI applications integrated in EHRs with HealthChain\nDate: 2024-11-21\nSpeaker(s): Jennifer Jiang-Kells\nOrganisation(s): University College London (UCL), University College London Hospitals NHS Foundation Trust (UCLH)\nTags: -\nWatch the video\n\n\n\n2.0.1.19 Reducing Mental Health Inequalities Among The BAME Residents of Herefordshire And Worcestershire Communities\nDate: 2024-11-21\nSpeaker(s): Oluwatimilehin Olabamiyo\nOrganisation(s): Herefordshire & Worcestershire Health and Care NHS Trust\nTags: -\nWatch the video\n\n\n\n2.0.1.20 Beyond the dashboard: R for value added insights\nDate: 2024-11-21\nSpeaker(s): Nicola Farthing\nOrganisation(s): NHSE Midlands\nTags: -\nWatch the video\n\n\n\n2.0.1.21 Reimagining the maternity services data - an open-source approach with plotly-dash\nDate: 2024-11-21\nSpeaker(s): Jennifer Struthers\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.1.22 Using Machine Learning and secondary care activity data to identify risk of cancer earlier\nDate: 2024-11-21\nSpeaker(s): Scarlett Kynoch\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.1.23 The patient does not exist – generating synthetic patient data with Wasserstein GAN\nDate: 2024-11-21\nSpeaker(s): Simon Newey\nOrganisation(s): Doncaster & Bassetlaw Teaching Hospitals NHST Foundation Trust\nTags: -\nWatch the video\n\n\n\n2.0.1.24 Streamlining machine learning development at the NHS via open-source tools\nDate: 2024-11-21\nSpeaker(s): Elias Altrabsheh, James Sibbit\nOrganisation(s): d-fine\nTags: -\nWatch the video\n\n\n\n2.0.1.25 Community Talk - rainbowR\nDate: 2024-11-21\nSpeaker(s): Ella Kaye\nOrganisation(s): rainbowr.org\nTags: -\nWatch the video\n\n\n\n2.0.1.26 What insights did Glasgow Scottish Ambulance Service (SAS) gain from combining multiple data sources about all chest pain patients from 2023?\nDate: 2024-11-21\nSpeaker(s): Katalin Koszegi\nOrganisation(s): University of Edinburgh, Scottish Ambulance Service\nTags: -\nWatch the video\n\n\n\n2.0.1.27 Predictive Modelling for health and social care capacity planning using open data\nDate: 2024-11-21\nSpeaker(s): Sebastian Fox\nOrganisation(s): Bristol, North Somerset and South Gloucestershire ICB\nTags: -\nWatch the video\n\n\n\n2.0.1.28 To explain or predict: how different modelling objectives change how you use the same tools\nDate: 2024-11-21\nSpeaker(s): Chris Mainey\nOrganisation(s): Birmingham & Solihull ICB\nTags: -\nWatch the video\n\n\n\n2.0.1.29 Using openxlsx2 to Automate Excel Publications\nDate: 2024-11-21\nSpeaker(s): Ruth Keane\nOrganisation(s): NHS Arden & Greater East Midlands CSU\nTags: -\nWatch the video\n\n\n\n2.0.1.30 What I learnt about (programming) languages by building bilingual websites\nDate: 2024-11-21\nSpeaker(s): Rosemary Walmsley\nOrganisation(s): Public Health Wales\nTags: -\nWatch the video\n\n\n\n2.0.1.31 Leveraging R to implement novel theoretical development in online ‘digital twin’ simulation modelling\nDate: 2024-11-21\nSpeaker(s): Richard Wood Luke Shaw\nOrganisation(s): Bristol, North Somerset and South Gloucestershire ICB\nTags: -\nWatch the video\n\n\n\n2.0.1.32 Cracking open the TiN: how we build a one-stop statistics website using R, GitHub and BigQuery\nDate: 2024-11-21\nSpeaker(s): Mohan Dell\nOrganisation(s): UK Gov Department for Transport\nTags: -\nWatch the video\n\n\n\n2.0.1.33 Should I use your package? (Validation as an [open-source] service)\nDate: 2024-11-21\nSpeaker(s): Colin Gillespie\nOrganisation(s): Jumping Rivers\nTags: -\nWatch the video\n\n\n\n\n2.0.2 2024 HACA\n\n2.0.2.1 Understanding Uptake of Physical Health Checks Amongst Patients with Serious Mental Illness in London\nDate: 2024-07-24\nSpeaker(s): Polly Sinclair\nOrganisation(s): Health Innovation Network South London\nTags: -\nWatch the video\n\n\n\n2.0.2.2 The Marathon Training Guide: Automation in Public Health Surveillance\nDate: 2024-07-24\nSpeaker(s): Katie Binley\nOrganisation(s): Public Health Agency Northern Ireland\nTags: -\nWatch the video\n\n\n\n2.0.2.3 Estimating the Macro Level Impact of Efforts to Mitigate Hospital Activity in English Hospitals from 2013 to 2019: A Retrospective Database Study\nDate: 2024-07-24\nSpeaker(s): Gabriel Hobro\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.4 Identifying Gaps in Service by Assessing Patients Against NHS England’s Discharge Ready Date Criteria: An Information Analyst and Flow Matron Discuss Implementing a Data Science Approach to Avoid Delayed Discharge\nDate: 2024-07-24\nSpeaker(s): Claire Tucker\nOrganisation(s): University College London Hospitals NHS Trust\nTags: Delayed discharge\nWatch the video\n\n\n\n2.0.2.5 Using a Markov Chain Monte Carlo Method to Optimise the Blood Donation Appointment Booking System\nDate: 2024-07-24\nSpeaker(s): Janarth Duraisingham\nOrganisation(s): NHS Blood and Transplant\nTags: -\nWatch the video\n\n\n\n2.0.2.6 Developing Analytics for Better Pharmacy Stock Control\nDate: 2024-07-24\nSpeaker(s): Hazel Kirkland\nOrganisation(s): Nottinghamshire Healthcare NHS Foundation Trust\nTags: -\nWatch the video\n\n\n\n2.0.2.7 Modelling long-term changes in population health state and associated healthcare resource requirements: application in BNSSG ICS\nDate: 2024-07-24\nSpeaker(s): Luke Shaw\nOrganisation(s): Bristol, North Somerset and South Gloucestershire ICB\nTags: -\nWatch the video\n\n\n\n2.0.2.8 So You Built a Dashboard…Now What?\nDate: 2024-07-24\nSpeaker(s): Natalie Cantillon, James Harrison\nOrganisation(s): Department for Health and Social Care\nTags: -\nWatch the video\n\n\n\n2.0.2.9 Activity and Evaluation Analysis for Neighbourhood Mental Health Teams in Birmingham and Solihull\nDate: 2024-07-24\nSpeaker(s): John O’Neil\nOrganisation(s): NHS Midlands and Lancshire CSU\nTags: -\nWatch the video\n\n\n\n2.0.2.10 Using Causal Impact Analysis to Measure the Impacts of Changing from Multi-Bed to Single-Bed Hospital Rooms\nDate: 2024-07-24\nSpeaker(s): Sarah Lucas, Andrew Hood, Anya Ferguson\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU)\nTags: -\nWatch the video\n\n\n\n2.0.2.11 An Early Warning System to Flag Uncontrolled Hypertension\nDate: 2024-07-24\nSpeaker(s): An Te, Farah Adam\nOrganisation(s): NHS Arden & Greater East Midlands CSU\nTags: -\nWatch the video\n\n\n\n2.0.2.12 Diagnostics in the Midlands: From Data to Action\nDate: 2024-07-24\nSpeaker(s): Lee Cadwallader-Allan\nOrganisation(s): NHSE\nTags: Diagnostics\nWatch the video\n\n\n\n2.0.2.13 Enhancing Data Linkage for the NHS- How Generalisable are Probabilistic Models?\nDate: 2024-07-24\nSpeaker(s): Jonathan Laidler, Amala Imaz Blanco\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.14 Towards Effective Data Linkage: Introducing a Quality Assurance Framework for Enhanced Health and Care Analytics\nDate: 2024-07-24\nSpeaker(s): Giulia Mantovani\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.15 RAP - Faster, More Robust, and More Transparent Analytical Processes\nDate: 2024-07-24\nSpeaker(s): Warren Davies\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.16 Developing Health Trends in England in Quarto\nDate: 2024-07-24\nSpeaker(s): David Jephson\nOrganisation(s): Department of Health and Social Care\nTags: -\nWatch the video\n\n\n\n2.0.2.17 Development of a Python package for Public Health Statistical Methods\nDate: 2024-07-24\nSpeaker(s): Jack Burden, Cameron Stewart, Thilaksan Vikneswaran\nOrganisation(s): Department of Health and Social Care\nTags: -\nWatch the video\n\n\n\n2.0.2.18 Improving Acute Hospital Flow through Real-Time Stochastic Modelling of Daily Discharge Requirements for Onward Care\nDate: 2024-07-24\nSpeaker(s): Nick Howlett\nOrganisation(s): Bristol, North Somerset and South Gloucestershire ICB\nTags: Discharge\nWatch the video\n\n\n\n2.0.2.19 Keynote: Adult Social Care and Health: Policy, Purpose and the Power of Data\nDate: 2024-07-24\nSpeaker(s): Richard Humphries\nOrganisation(s): Health Foundation\nTags: -\nWatch the video\n\n\n\n2.0.2.20 Keynote: Linking health and administrative data: the missed use of data\nDate: 2024-07-24\nSpeaker(s): Emma Gordon\nOrganisation(s): Administrative Data Research UK(ADR UK)\nTags: -\nWatch the video\n\n\n\n2.0.2.21 Conversation: Data, Analytics, and Decision Making in Adult Social Care\nDate: 2024-07-24\nSpeaker(s): Richard Humphries, Philippa Lynch, Pete Jackson\nOrganisation(s): Partners in Care and Health West Midlands Directors of Adult Social Services (ADASS)\nTags: -\nWatch the video\n\n\n\n2.0.2.22 Current and Future Patterns of Inequalities in Diagnosed Illness by Deprivation\nDate: 2024-07-24\nSpeaker(s): Ann Raymond\nOrganisation(s): Health Foundation\nTags: -\nWatch the video\n\n\n\n2.0.2.23 Neurodiversity at Work\nDate: 2024-07-24\nSpeaker(s): Dani Collier\nOrganisation(s): NHS South Central and West CSU\nTags: -\nWatch the video\n\n\n\n2.0.2.24 Combining Analytics and a Complexity-Informed Relational Approach to Facilitate System Change and High-Quality Collaborative Decision Making in Midlands In-hospital Paediatrics\nDate: 2024-07-24\nSpeaker(s): Jennifer Wood\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU)\nTags: -\nWatch the video\n\n\n\n2.0.2.25 It’s the Data [and Analytics] Stupid\nDate: 2024-07-24\nSpeaker(s): Marc Farr\nOrganisation(s): Kent and Medway ICB, East Kent Hospital NHS Foundation Trust\nTags: Must watch\nWatch the video\n\n\n\n2.0.2.26 Access All Areas- Creating Space for Generic and Open Source Simulation Modelling\nDate: 2024-07-24\nSpeaker(s): Sally Thompson\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU)\nTags: -\nWatch the video\n\n\n\n2.0.2.27 Harnessing the Power of NHS Jobs Vacancy Data to Support the National Competency Framework’s Vision for a Standardised Data Professional Workforce\nDate: 2024-07-24\nSpeaker(s): Thomas Owen\nOrganisation(s): NHS Business Services Authority (NHSBSA)\nTags: -\nWatch the video\n\n\n\n2.0.2.28 Supporting the Development of a ‘Healthier and Fairer’ Programme using System Wide Data and Insight.\nDate: 2024-07-23\nSpeaker(s): Anna Pickford\nOrganisation(s): NECS\nTags: -\nWatch the video\n\n\n\n2.0.2.29 Right Data, Right Method, Right Insight - The Development of the Manchester Measuring Inequalities Toolkit.\nDate: 2024-07-23\nSpeaker(s): Neil Bendel\nOrganisation(s): Manchester City Council\nTags: -\nWatch the video\n\n\n\n2.0.2.30 The Use Of Real-World Data In Decision Making At The National Institute For Health And Care Excellence (NICE)\nDate: 2024-07-23\nSpeaker(s): Shaun Rowark\nOrganisation(s): National Institute For Health And Care Excellence (NICE)\nTags: -\nWatch the video\n\n\n\n2.0.2.31 Using Machine Learning and Secondary Care Activity Data to Identify Risk of Cancer Earlier\nDate: 2024-07-23\nSpeaker(s): Hadi Modarres, Divya Balasubramanian\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.32 The Lincolnshire Living with Cancer Programme dashboard - Transforming Words and Feelings to Numbers and Statistics\nDate: 2024-07-23\nSpeaker(s): Kathie McPeake\nOrganisation(s): Lincolnshire ICB\nTags: -\nWatch the video\n\n\n\n2.0.2.33 Predicting Deaths on the Waiting List\nDate: 2024-07-23\nSpeaker(s): Kamil Barczak\nOrganisation(s): NHS Arden & Greater East Midlands CSU\nTags: -\nWatch the video\n\n\n\n2.0.2.34 Uncertainty, Politics, and Analytics: Building Projections of the Elective Waiting List\nDate: 2024-07-23\nSpeaker(s): Melissa Co, Freya Tracey\nOrganisation(s): Health Foundation\nTags: -\nWatch the video\n\n\n\n2.0.2.35 A&E Admissions Forecasting: How to Develop, Maintain and Improve a Data Science Model in Production and Lessons Learnt\nDate: 2024-07-23\nSpeaker(s): Jane Kirkpatrick Xiyao Zhuang\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.36 Why Modelling of Inpatient Discharge Predictions is Key to Reducing ED Admitted Patient Delays and Elective Cancellation: An Example from UCLH\nDate: 2024-07-23\nSpeaker(s): Zella King Alison Clements\nOrganisation(s): University College London Hospitals NHS Trust\nTags: Operations\nWatch the video\n\n\n\n2.0.2.37 Getting Our Tools Used: Learning from the First Year of an NHS Data Science Team\nDate: 2024-07-23\nSpeaker(s): Brandon Chapman\nOrganisation(s): Royal Cornwall Hospitals NHS Trust\nTags: -\nWatch the video\n\n\n\n2.0.2.38 In-Depth Analysis and Insight: A Cancer Pathway Review within an Integrated Care Board\nDate: 2024-07-23\nSpeaker(s): Ruth Green, Kelly Bishop, Joanne Bayliss\nOrganisation(s): NHS Midlands and Lancshire CSU\nTags: -\nWatch the video\n\n\n\n2.0.2.39 Re-designing the Mental Health Learning Disability and Autism (MHLDA) Integrated Performance Reporting for the NHS South East Region\nDate: 2024-07-23\nSpeaker(s): Jamie Gale, Neil Jackson, Elisa Santoro\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.40 Co-producing a National Quality Early Warning Signs Framework\nDate: 2024-07-23\nSpeaker(s): Michael Richardson\nOrganisation(s): Bristol, North Somerset and South Gloucestershire ICB\nTags: -\nWatch the video\n\n\n\n2.0.2.41 Health Inequalities in Rates of Activity in Emergency Departments for Children\nDate: 2024-07-23\nSpeaker(s): Robert Watkins\nOrganisation(s): Leicester, Leicestershire and Rutland ICB\nTags: -\nWatch the video\n\n\n\n2.0.2.42 Scaling Healthcare Equity Analysis of Access and Experience\nDate: 2024-07-23\nSpeaker(s): Matthew Eves\nOrganisation(s): Derbyshire Community Health Services NHS Foundation Trust\nTags: Health Inequalities\nWatch the video\n\n\n\n2.0.2.43 Alcohol Dependence Dashboard and Return on Investment Tool: Heath Inequalities and Sustainability\nDate: 2024-07-23\nSpeaker(s): Bethany Thompson\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.44 Utilizing Location Analysis in NHS Blood and Transplant\nDate: 2024-07-23\nSpeaker(s): Gareth Humphreys\nOrganisation(s): NHS Blood and Transplant\nTags: -\nWatch the video\n\n\n\n2.0.2.45 Building a Better Geospatial Data and Analytic Function for Improved Public Health Outcomes\nDate: 2024-07-23\nSpeaker(s): James Lewis\nOrganisation(s): UK Health Security Agency\nTags: -\nWatch the video\n\n\n\n2.0.2.46 Keynote: Health in 2040: Health Trends and Funding Implications\nDate: 2024-07-23\nSpeaker(s): Anita Charlesworth\nOrganisation(s): Health Foundation\nTags: -\nWatch the video\n\n\n\n2.0.2.47 Keynote: Why the Analysis Counts\nDate: 2024-07-23\nSpeaker(s): Sir Andrew Dilnot\nOrganisation(s): Nuffield College Oxford\nTags: -\nWatch the video\n\n\n\n2.0.2.48 Supporting the Measles Outbreaks using Geospatial\nDate: 2024-07-23\nSpeaker(s): Richard Sanders\nOrganisation(s): NHSE South Central and West\nTags: -\nWatch the video\n\n\n\n2.0.2.49 Conversation: Reflections on the Role of the Analyst: An Audience with Anita Charlesworth\nDate: 2024-07-23\nSpeaker(s): Fraser Battye, Anita Charlesworth\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU) Health Foundation\nTags: -\nWatch the video\n\n\n\n2.0.2.50 Conversation: Participatory Research and Involving Experts by Experience\nDate: 2024-07-23\nSpeaker(s): Ellen Coughlan\nOrganisation(s): Health Foundation\nTags: -\nWatch the video\n\n\n\n2.0.2.51 Understanding Drivers of Productivity in the General Practice Sector\nDate: 2024-07-23\nSpeaker(s): Anastasiia Zharinova\nOrganisation(s): NHSE\nTags: Productivity\nWatch the video\n\n\n\n2.0.2.52 Describing Trends in General Practice Staffing Mix using Latent Profile Analysis\nDate: 2024-07-23\nSpeaker(s): Alexander Lawless\nOrganisation(s): Health Foundation\nTags: -\nWatch the video\n\n\n\n2.0.2.53 Nursing Local, Thinking Global: UK Registered Nurses and their Intentions to Leave\nDate: 2024-07-23\nSpeaker(s): Nuha Bazeer\nOrganisation(s): Health Foundation\nTags: -\nWatch the video\n\n\n\n2.0.2.54 National Competency Framework: The Future of the Data and Analytics Workforce\nDate: 2024-07-23\nSpeaker(s): Sarah Louise Blundell\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.55 Accelerating NHS Feedback Moderation at NHS.UK with NLP\nDate: 2024-07-23\nSpeaker(s): Lilianna Valles, Alice Tapper, and Matthew Taylor\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n2.0.2.56 Automated Identification of Suicide Attempts in Police Record Reports\nDate: 2024-07-23\nSpeaker(s): Ehsan Taati, Lee Robertson\nOrganisation(s): Public Health Dorset\nTags: -\nWatch the video\n\n\n\n2.0.2.57 Removing Friction in a Data Flow by Automated Geocoding of Assaults Locations Captured as Free Text in Emergency Departments\nDate: 2024-07-23\nSpeaker(s): Michael Cheetham\nOrganisation(s): Barts Health NHS Trust\nTags: -\nWatch the video\n\n\n\n2.0.2.58 E-lab: Anatomy of a waiting list: How well do we understand our waiting lists?\nDate: 2024-07-12\nSpeaker(s): Neil Walton, Tom Smith\nOrganisation(s): Durham University, Nottingham University Hospitals NHS Trust\nTags: -\nWatch the video\n\n\n\n2.0.2.59 E-lab: Using Systems Dynamics in Local Authority Public Health Practice\nDate: 2024-07-12\nSpeaker(s): Abraham George, Mark Chambers, Nirosha Dissanayake, Peter Lacey\nOrganisation(s): Kent County Council\nTags: -\nWatch the video\n\n\n\n2.0.2.60 E-lab: Professional Registration for Data Analytics Professionals\nDate: 2024-07-12\nSpeaker(s): Jane Johnston, Emma Wright\nOrganisation(s): AphA\nTags: -\nWatch the video\n\n\n\n2.0.2.61 E-lab: Guiding Leaders to Better Quality Decisions: The Pivotal Role of Analysts\nDate: 2024-07-12\nSpeaker(s): Sam Riley, Andrew Browne\nOrganisation(s): NHSE, University Hospitals of Morecambe Bay NHS Foundation Trust\nTags: -\nWatch the video\n\n\n\n2.0.2.62 E-lab: Voices from the Competency Framework Frontline\nDate: 2024-07-12\nSpeaker(s): Sarah Blundell, Andrew Lavelle\nOrganisation(s): NHSE\nTags: -\nWatch the video\n\n\n\n\n2.0.3 2023 HACA\n\n2.0.3.1 Conversation: What do leaders want from analysts\nDate: 2023-07-11\nSpeaker(s): Fraser Battye, Sarah J Marsh, Kieran Patel, Clara Day, Amanda Sullivan\nOrganisation(s): Strategy Unit (NHS Mids and Lancs CSU), NHSE, University Hospitals Coventry & Warwickshire NHS Trust, Birmingham & Solihull ICB, Nottingham and Nottinghamshire ICB\nTags: -\nWatch the video",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Physical Books</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Conference Talks</span>"
     ]
   },
   {
     "objectID": "e_books.html",
     "href": "e_books.html",
-    "title": "2  E-Books",
+    "title": "3  E-Books",
     "section": "",
-    "text": "2.1 Analysis",
+    "text": "3.1 Analysis",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>E-Books</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>E-Books</span>"
     ]
   },
   {
     "objectID": "e_books.html#visualisation",
     "href": "e_books.html#visualisation",
-    "title": "2  E-Books",
-    "section": "2.2 Visualisation",
-    "text": "2.2 Visualisation",
+    "title": "3  E-Books",
+    "section": "3.2 Visualisation",
+    "text": "3.2 Visualisation",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>E-Books</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>E-Books</span>"
     ]
   },
   {
     "objectID": "e_books.html#statistics",
     "href": "e_books.html#statistics",
-    "title": "2  E-Books",
-    "section": "2.3 Statistics",
-    "text": "2.3 Statistics",
+    "title": "3  E-Books",
+    "section": "3.3 Statistics",
+    "text": "3.3 Statistics",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>E-Books</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>E-Books</span>"
     ]
   },
   {
     "objectID": "e_books.html#data-science",
     "href": "e_books.html#data-science",
-    "title": "2  E-Books",
-    "section": "2.4 Data Science",
-    "text": "2.4 Data Science\nHSMA e-books",
+    "title": "3  E-Books",
+    "section": "3.4 Data Science",
+    "text": "3.4 Data Science\nHSMA e-books",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>E-Books</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>E-Books</span>"
     ]
   },
   {
     "objectID": "e_books.html#code",
     "href": "e_books.html#code",
-    "title": "2  E-Books",
-    "section": "2.5 Code",
-    "text": "2.5 Code\nAuthoring R Packages\nHappy Git with R\nThe Big Book of R",
+    "title": "3  E-Books",
+    "section": "3.5 Code",
+    "text": "3.5 Code\nAuthoring R Packages\nHappy Git with R\nThe Big Book of R",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>E-Books</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>E-Books</span>"
     ]
   },
   {
     "objectID": "e_books.html#improvement",
     "href": "e_books.html#improvement",
-    "title": "2  E-Books",
-    "section": "2.6 Improvement",
-    "text": "2.6 Improvement",
+    "title": "3  E-Books",
+    "section": "3.6 Improvement",
+    "text": "3.6 Improvement",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>E-Books</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>E-Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html",
+    "href": "physical_books.html",
+    "title": "4  Physical Books",
+    "section": "",
+    "text": "4.1 Healthcare\nThis is a list of recommended reading. Intended to capture some of the core publications which would interest any data analyst, through to more specialised material focusing on healthcare specifically, or improvement more generally.\nThe Healthcare Data Guide\nby Provost & Murray\nDesigned to help students and professionals build a skill set specific to using data for improvement of healthcare processes and systems.\nAn Introduction to Digital Healthcare in the NHS\nby Gary McAllister\nThis short book is for professionals working within Healthcare IT, particularly in the NHS. As an introduction, this book is well suited to those who are considering changing careers and working in the Healthcare IT sector. The book aims to provide the reader with a summary of Healthcare IT in the NHS, covering patient flows, healthcare IT systems and modules, healthcare governance, some politics and finally a view of the future.\nPrinciples of Health Interoperability\nby Tim Benson & Grahame Grieve\nHealthcare is communication. Interoperability can provide information when and where required, facilitate quicker and more soundly based decision-making, reduce waste by cutting out repeated work and improve safety with fewer errors. Interoperability is essential in healthcare, which depends on teamwork and communication.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#analysis",
+    "href": "physical_books.html#analysis",
+    "title": "4  Physical Books",
+    "section": "4.2 Analysis",
+    "text": "4.2 Analysis\nSQL for Data Scientists\nby Renee M.P.Teate\nA resource that’s dedicated to the Structured Query Language (SQL) and dataset design skills that data scientists use most. Aspiring data scientists will learn how to how to construct datasets for exploration, analysis, and machine learning.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#visualisation",
+    "href": "physical_books.html#visualisation",
+    "title": "4  Physical Books",
+    "section": "4.3 Visualisation",
+    "text": "4.3 Visualisation\nThe Visual Display of Quantitative Information\nby Edward R.Tufte\n“Modern data graphics can do much more than simply substitute for small statistical tables. At their best, graphics are instruments for reasoning about quantitative information. Often the most effective way to describe, explore, and summarise a set of numbers - even a very large set - is to look at pictures of those numbers. Furthermore, of all methods for analysing and communicating statistical information, well-designed data graphics are usually the simplest and at the same time the most powerful.”",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#statistics",
+    "href": "physical_books.html#statistics",
+    "title": "4  Physical Books",
+    "section": "4.4 Statistics",
+    "text": "4.4 Statistics",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#data-science",
+    "href": "physical_books.html#data-science",
+    "title": "4  Physical Books",
+    "section": "4.5 Data Science",
+    "text": "4.5 Data Science\nThe StatQuest Illustrated Guide to Machine Learning\nby Josh Starmer\nMachine Learning is awesome and powerful, but it can also appear incredibly complicated. That’s where The StatQuest Illustrated Guide to Machine Learning comes in. This book takes the machine learning algorithms, no matter how complicated, and breaks them down into small, bite-sized pieces that are easy to understand. Each concept is clearly illustrated to provide you, the reader, with an intuition about how the methods work that goes beyond the equations alone.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#data-engineering",
+    "href": "physical_books.html#data-engineering",
+    "title": "4  Physical Books",
+    "section": "4.6 Data Engineering",
+    "text": "4.6 Data Engineering\nDAMA - DMBOK\nData Management Body of Knowledge\nToday’s organisations recognise that managing data is central to their success. They recognise the value of their data and seek to leverage that value. As human capacity to create and exploit data has increased, so too has the need for reliable data management practices.\nDatabase Design for Mere Mortals\nby Michael J.Hernandez\nWhatever relational database systems you use, Hernandez will help you design databases that are robust and trustworthy. Never designed a database before? Settling for inadequate generic designs? Running existing databases that need improvement? Start here.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#improvement",
+    "href": "physical_books.html#improvement",
+    "title": "4  Physical Books",
+    "section": "4.7 Improvement",
+    "text": "4.7 Improvement\nBusiness Dynamics - Systems Thinking and Modelling for a Complex World\nby John D. Sterman\nSystems Dynamics is an approach to the study of complexity. Originally developed at the Massachusetts Institute of Technology by Jay Forrester, system dynamics is a unique method devised to help managers and public policymakers design and implement high leverage policies for sustainable success.",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Physical Books</span>"
+    ]
+  },
+  {
+    "objectID": "physical_books.html#manufacturing-improvement",
+    "href": "physical_books.html#manufacturing-improvement",
+    "title": "4  Physical Books",
+    "section": "4.8 Manufacturing Improvement",
+    "text": "4.8 Manufacturing Improvement\nOut of the Crisis\nby W. Edwards Deming\nOriginally published in 1982, Deming offers a theory of management based on his famous 14 Points for Management. “Long-term commitment to new learning and new philosophy is required of any management that seeks transformation. The timid and the fainthearted, and the people that expect quick results, are doomed to disappointment.”\nToyota Production System - Beyond Large-Scale Production\nby Taiichi Ohno\n“The Toyota Production System evolved out of need. Certain restrictions in the marketplace required the production of small quantities of many varieties under conditions of low demand, a fate the Japanese automobile industry had faced in the postwar period.”\n“The most important objective of the Toyota Production System has been to increase production efficiency by consistently and thoroughly eliminating waste.”\nA Study of the Toyota Production System from and Industrial Engineering Viewpoint\nby Shigeo Shingo\n“The Toyota Production System has been compared to squeezing water from a dry towel. What this means is that it is a system for thorough waste elimination. Here, waste refers to everything not serving to advance the process, everything that does not increase added value. Many people settle for eliminating the waste that everyone recognises as waste. But much remains that simply has not yet been recognised as waste or that people are willing to tolerate.”",
+    "crumbs": [
+      "Resources",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Physical Books</span>"
     ]
   },
   {
     "objectID": "videos.html",
     "href": "videos.html",
-    "title": "3  Videos",
+    "title": "5  Videos",
     "section": "",
     "text": "NHS-R Community YouTube Videos\nThe Strategy Unit YouTube Videos\nHealth Service Modelling Associates YouTube Videos\nStatQuest with Josh Starmer",
     "crumbs": [
       "Resources",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Videos</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Videos</span>"
     ]
   },
   {
     "objectID": "acknowledgements.html",
     "href": "acknowledgements.html",
-    "title": "4  Acknowledgements",
+    "title": "6  Acknowledgements",
     "section": "",
     "text": "If I have seen further, it is by standing on the shoulders of giants.\n\nSir Isaac Newton\n\n\nThe NHS R Community\nMidlands Analyst Network Huddles\nHealth Service Modelling Associates\nChris Beeley & the Data Science Team at the Strategy Unit\nSam Riley & NHSE Making Data Count\nBristol, North Somerset & South Gloucestershire Analytics (github)",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Acknowledgements</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Acknowledgements</span>"
     ]
   },
   {
@@ -191,7 +400,7 @@
     "section": "",
     "text": "A\nThe NHS (National Health Service) can be an alphabet soup of three-letter-acronyms. This page covers some of the main acronyms used in this book. There is also a helpful Jargon Buster maintained by the NHS Confederation.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -201,7 +410,7 @@
     "section": "",
     "text": "A&G\nAdvice and Guidance\nA quick-reaction clinical questions process designed to avoid unnecessary referrals from primary care by responding quickly to medical queries about referral options for a patient.\n\n\nABCD\nActivity, Bottleneck, Capacity, Demand.\nA common mental model used to describe demand and capacity measurement.\n\n\nALOS\nAverage Length of Stay\nSee also LOS. LOS is the preferred term at NUH.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -211,7 +420,7 @@
     "section": "B",
     "text": "B\n\nBAF\nBoard Assurance Framework\n\n\nBOK\nBody of Knowledge",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -221,7 +430,7 @@
     "section": "C",
     "text": "C\n\nCDC\nCommunity Diagnostic Centre\n\n\nCT\nComputed Tomography\nAn important diagnostic imaging process, and one of the 15 diagnostic modalities measured in the DM01 performance dataset.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -231,7 +440,7 @@
     "section": "D",
     "text": "D\n\nDM01\nA performance dataset related to the main diagnostic test modalities\n\n\nDNA\nDid Not Attend\nThe patient did not arrive for a scheduled appointment.\nSee also WNB",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -241,7 +450,7 @@
     "section": "E",
     "text": "E\n\nECG\nElectrocardiogram\nOne of the 15 diagnostic modalities measured in the DM01 performance dataset\n\n\nEL\nElective\n\n\nEPMA\nElectronic Prescribing and Medicines Administration\n\n\nEPR\nElectronic Patient Records System",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -251,7 +460,7 @@
     "section": "F",
     "text": "F\n\nFDS\nFaster Diagnosis Standard\nA cancer performance measure, measuring the length of time from urgent referral to ruling out or diagnosis of cancer. The performance standard is 28 days.\n\n\nFDS\nFirst Diagnostic Scan\nA timing point within diagnostic pathway tracking\n\n\nFTE\nFull-time Equivalent\nSee also WTE",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -261,7 +470,7 @@
     "section": "G",
     "text": "G",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -271,7 +480,7 @@
     "section": "H",
     "text": "H\n\nHVLC\nHigh Volume Low Complexity",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -281,7 +490,7 @@
     "section": "I",
     "text": "I\n\nICB\nIntegrated Care Board\n\n\nICD10\nInternational statistical classification of diseases and related health problems\nSee also OPCS4\n\n\nIP\nInpatient",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -291,7 +500,7 @@
     "section": "J",
     "text": "J",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -301,7 +510,7 @@
     "section": "K",
     "text": "K",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -311,7 +520,7 @@
     "section": "L",
     "text": "L\n\nLOS\nLength of Stay\nSee also ALOS. LOS is the preferred term at NUH.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -321,7 +530,7 @@
     "section": "M",
     "text": "M\n\nMBRRACE\nMaternal and Babies-Reducing Risk through Audits and Confidential Enquiries\n\n\nMDC\nMaking Data Count\nA data-literacy initiative led by NHSE to increase the use of Statistical Process Control techniques in hospital measurement and management processes.\n\n\nMFFD\nMedically Fit For Discharge\nSee also MSFT\n\n\nMRI\nMagnetic Resonance Imaging\nAn important diagnostic imaging process, and one of the 15 diagnostic modalities measured in the DM01 performance dataset.\n\n\nMSFT\nMedically Safe for Transfer\nSee also MFFD",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -331,7 +540,7 @@
     "section": "N",
     "text": "N\n\nNEL\nNon-Elective\nSee also UEC\n\n\nNEWS\nNational Early Warning Score\n\n\nNHP\nNew Hospitals Programme\n\n\nNHS\nNational Health Service\n\n\nNICU\nNeonatal Intensive Care Unit\nSee also NNU\n\n\nNNU\nNeonatal Unit\nSee also NICU",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -341,7 +550,7 @@
     "section": "O",
     "text": "O\n\nOP\nOutpatient\n\n\nOPCS4\nOPCS Classification of Interventions and Procedures\nSee also ICD10\n\n\nOPPROC\nOutpatient procedure",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -351,7 +560,7 @@
     "section": "P",
     "text": "P\n\nPACS\nPicture Archiving and Communication System\n\n\nPAS\nPatient Administration System\n\n\nPCN\nPrimary Care Network\n\n\nPEWS\nPediatric Early Warning Score\n\n\nPIFU\nPatient-Initiated Follow Up\n\n\nPlain Film\nStandard X-ray image taken without contrast agents (e.g. dyes or barium)\n\n\nPOC\nPoint Of Care\n\n\nPTL\nPatient Tracking List",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -361,7 +570,7 @@
     "section": "Q",
     "text": "Q",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -371,7 +580,7 @@
     "section": "R",
     "text": "R\n\nR\nA statistical programming language used by data analysts and data scientists\n\n\nRIS\nRadiology Information System\n\n\nRTL\nReferral Tracking List\n\n\nRTT\nReferral to Treatment",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -381,7 +590,7 @@
     "section": "S",
     "text": "S\n\nSDEC\nSame-Day Emergency Care\n\n\nSITREP\nSituation Report\n\n\nSOP\nStandard Operating Procedure\n\n\nSPC\nStatistical Process Control\n\n\nSUS\nSecondary Uses Service",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -391,7 +600,7 @@
     "section": "T",
     "text": "T\n\nTOC\nTranasfer of Care\n\n\nTTO\nTo Take Out\nA drugs prescription that the patient takes away on the day they are discharged from inpatient care.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -401,7 +610,7 @@
     "section": "U",
     "text": "U\n\nUEC\nUrgent and Emergency Care\n\n\nUS\nUltrasound\nA diagnostic imaging process. Non-obstetric ultrasound is one of the 15 diagnostic modalities measured in the DM01 performance dataset.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -411,7 +620,7 @@
     "section": "V",
     "text": "V",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -421,7 +630,7 @@
     "section": "W",
     "text": "W\n\nWLI\nWaiting List Initiative\nPremium-paid working time agreed in order to reduce the size of a waiting list.\n\n\nWNB\nWas not Brought\nThe patient did not attend a scheduled appointment, but is dependent on others to bring them to the appointments (e.g. pediatric or elderly patients).\nSee also DNA\n\n\nWTE\nWhole-time Equivalent\nSee also FTE",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -431,7 +640,7 @@
     "section": "X",
     "text": "X\n\nXmR\nA type of Statistical Process Control (SPC) chart",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -441,7 +650,7 @@
     "section": "Y",
     "text": "Y",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   },
   {
@@ -451,7 +660,7 @@
     "section": "Z",
     "text": "Z",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Glossary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
   }
 ]
