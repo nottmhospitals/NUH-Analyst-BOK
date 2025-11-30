@@ -33,6 +33,18 @@ Body of Knowledge
 ### CDC
 Community Diagnostic Centre
 
+### CRG
+Clinical Reference Group
+
+### CSU
+Commissioning Support Unit  
+An organisation that provides commissioners with external support, specialist 
+skills and knowledge to support them in their role. There are currently 4 CSUs:  
+NHS North of England CSU;
+NHS Arden and Greater East Midlands CSU;
+NHS Midlands and Lancashire CSU;
+NHS South, Central and West CSU;
+
 ### CT
 Computed Tomography   
 An important diagnostic imaging process, and one of the 15 diagnostic modalities measured in the DM01 performance dataset.
@@ -46,6 +58,11 @@ A performance dataset related to the main diagnostic test modalities
 Did Not Attend  
 The patient did not arrive for a scheduled appointment.  
 See also [WNB](glossary.qmd#wnb) 
+
+### DTA
+Decision To Admit  
+This is a timing point, often in ED, when the decision to admit a patient to hospital as an inpatient is made.
+The following timing point will be "admission".  The time between these timing points is monitored as a performance metric.
 
 ## E
 
@@ -78,6 +95,15 @@ See also [WTE](glossary.qmd#wte)
 
 ## G
 ## H
+
+## HED
+[Healthcare Evaluation Data](https://www.hed.nhs.uk/Info/hed-system.htm)  
+HED is a subscription-based online benchmarking solution developed by University Hospitals Birmingham NHS Foundation Trust.
+
+### HES
+[Hospital Episode Statistics](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics)  
+HES is a curated data product containing details about admissions, 
+outpatient appointments and historical accident and emergency attendances at NHS hospitals in England.
 
 ### HVLC
 High Volume Low Complexity
@@ -146,6 +172,12 @@ See also [NNU](glossary.qmd#nnu)
 Neonatal Unit  
 See also [NICU](glossary.qmd#nicu)
 
+### NOF
+NHS Oversight Framework  
+Introduced in June 2025, the NOF describes a consistent and transparent approach to assessing 
+integrated care boards (ICBs) and NHS trusts, ensuring public accountability for performance 
+and providing a foundation for how NHS England works with systems and providers to support improvement.
+
 ## O
 
 ### OP
@@ -166,6 +198,9 @@ Picture Archiving and Communication System
 ### PAS
 Patient Administration System
 
+### Pathology
+The pathology lab is responsible for testing samples (e.g. blood, urine, fluids, biopsies) to support the diagnosis of patients.
+
 ### PCN
 Primary Care Network
 
@@ -178,8 +213,17 @@ Patient-Initiated Follow Up
 ### Plain Film
 Standard X-ray image taken without contrast agents (e.g. dyes or barium)
 
+### PLCM
+Patient Level Contract Monitoring  
+PLCM is a means to enable the interchange, in a uniform format, of monthly 
+patient-level contract monitoring data between commissioners and providers of healthcare.
+
 ### POC
 Point Of Care
+
+### POD
+[Point of Delivery](https://www.datadictionary.nhs.uk/attributes/point_of_delivery_code.html)  
+POD is the location where an activity, event or item is provided to a patient.
 
 ### PTL
 Patient Tracking List
@@ -213,8 +257,11 @@ Standard Operating Procedure
 ### SPC
 Statistical Process Control
 
-### SUS
-Secondary Uses Service
+### SUS+
+[Secondary Uses Service](https://digital.nhs.uk/services/secondary-uses-service-sus)
+SUS+ is a comprehensive repository for commissioning data sets in England. It is 
+held by NHS England and it enables a range of reporting and analyses to support 
+the NHS in the delivery of healthcare services.
 
 ## T
 
