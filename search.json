@@ -478,17 +478,7 @@
     "href": "glossary.html#h",
     "title": "Glossary",
     "section": "H",
-    "text": "H",
-    "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
-    ]
-  },
-  {
-    "objectID": "glossary.html#hed",
-    "href": "glossary.html#hed",
-    "title": "Glossary",
-    "section": "HED",
-    "text": "HED\nHealthcare Evaluation Data\nHED is a subscription-based online benchmarking solution developed by University Hospitals Birmingham NHS Foundation Trust.\n\nHES\nHospital Episode Statistics\nHES is a curated data product containing details about admissions, outpatient appointments and historical accident and emergency attendances at NHS hospitals in England.\n\n\nHVLC\nHigh Volume Low Complexity",
+    "text": "H\n\nHED\nHealthcare Evaluation Data\nHED is a subscription-based online benchmarking solution developed by University Hospitals Birmingham NHS Foundation Trust.\n\n\nHES\nHospital Episode Statistics\nHES is a curated data product containing details about admissions, outpatient appointments and historical accident and emergency attendances at NHS hospitals in England.\n\n\nHVLC\nHigh Volume Low Complexity",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
@@ -598,7 +588,7 @@
     "href": "glossary.html#s",
     "title": "Glossary",
     "section": "S",
-    "text": "S\n\nSDEC\nSame-Day Emergency Care\n\n\nSITREP\nSituation Report\n\n\nSOP\nStandard Operating Procedure\n\n\nSPC\nStatistical Process Control\n\n\nSUS+\nSecondary Uses Service SUS+ is a comprehensive repository for commissioning data sets in England. It is held by NHS England and it enables a range of reporting and analyses to support the NHS in the delivery of healthcare services.",
+    "text": "S\n\nSDEC\nSame-Day Emergency Care\n\n\nSITREP\nSituation Report\n\n\nSOP\nStandard Operating Procedure\n\n\nSPC\nStatistical Process Control\n\n\nSUS+\nSecondary Uses Service\nSUS+ is a comprehensive repository for commissioning data sets in England. It is held by NHS England and it enables a range of reporting and analyses to support the NHS in the delivery of healthcare services.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Glossary</span>"
     ]
