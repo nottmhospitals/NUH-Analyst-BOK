@@ -96,7 +96,7 @@ See also [WTE](glossary.qmd#wte)
 ## G
 ## H
 
-## HED
+### HED
 [Healthcare Evaluation Data](https://www.hed.nhs.uk/Info/hed-system.htm)  
 HED is a subscription-based online benchmarking solution developed by University Hospitals Birmingham NHS Foundation Trust.
 
@@ -173,7 +173,7 @@ Neonatal Unit
 See also [NICU](glossary.qmd#nicu)
 
 ### NOF
-NHS Oversight Framework  
+[NHS Oversight Framework](https://www.england.nhs.uk/nhs-oversight-framework/)  
 Introduced in June 2025, the NOF describes a consistent and transparent approach to assessing 
 integrated care boards (ICBs) and NHS trusts, ensuring public accountability for performance 
 and providing a foundation for how NHS England works with systems and providers to support improvement.
@@ -258,7 +258,7 @@ Standard Operating Procedure
 Statistical Process Control
 
 ### SUS+
-[Secondary Uses Service](https://digital.nhs.uk/services/secondary-uses-service-sus)
+[Secondary Uses Service](https://digital.nhs.uk/services/secondary-uses-service-sus)  
 SUS+ is a comprehensive repository for commissioning data sets in England. It is 
 held by NHS England and it enables a range of reporting and analyses to support 
 the NHS in the delivery of healthcare services.
