@@ -49,15 +49,10 @@ out <- purrr::map_chr(grouped_by_conference, function(g) {
       glue::glue("
   
       #### {talk_name}
-      
-      Date: {date}
-      
-      Speaker(s): {presenters}
-      
-      Organisation(s): {organisations}
-      
-      Tags: {tags}
-      
+      Date: {date}  
+      Speaker(s): {presenters}  
+      Organisation(s): {organisations}  
+      Tags: {tags}  
       [Watch the video]({url})
       
       ---
